@@ -1,2 +1,3 @@
-# tribute-page
-Tribute to Abrahm Lincoln
+# Tribute Page 
+
+![Abraham Lincoln](Screenshot.png)
